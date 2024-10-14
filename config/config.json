@@ -1,0 +1,8 @@
+{
+  "development":{
+      "username":"root",
+      "password":null,
+      "database":"testing_db",
+      "dialect":"mysql"
+  }
+}
