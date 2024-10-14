@@ -1,5 +1,17 @@
 **Aplicación de gestión de eventos y boletos**
 
+Para clonar el repositorio, basta con elegir la opción "Fork" arriba a la derecha.
+Si no desea hacerlo así, puede 	dar click en el botón verde que dice "Code". Ahí le desplegará varias opciones:
+*Copiar el url del repositorio para usarlo en un cliente, como github desktop.
+*Abrir directamente github desktop para clonarlo.
+*Descargar el código fuente en forma de archivo comprimido.
+*Copiar un comando para clonarlo en un cli de consola.
+
+Por el momento, SSH no se recomienda debido a requerimientos extras que esto puede tener.
+
+**USO**
+
+
 Para instalar las dependencias, hay que ejecutar el siguiente script:
 'npm install'
 
